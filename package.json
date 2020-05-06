@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YugantKachroo/Weather-App/issues"
   },
-  "homepage": "https://github.com/YugantKachroo/Weather-App#readme"
+  "homepage": "https://github.com/YugantKachroo/Weather-App#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
